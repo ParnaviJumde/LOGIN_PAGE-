@@ -1,0 +1,50 @@
+*margin{
+    margin: 0;
+    padding: 0;
+𝑻
+}
+body{
+    background: url("images/london2.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+   position: absolute;
+   top: 45px;
+   left: 40%;
+}
+.container h1{
+    font-size: 40px;
+    border-bottom: 5px solid purple;
+    margin-bottom: 23px;
+    padding: 13px;
+}
+.box{
+    width: 100%;
+    border: 2px ;
+    border-bottom: 2px solid purple;
+}
+.box input{
+    background: none;  
+    width: 90%;
+    left: 2px;
+    margin: 23px 0px;
+    padding: 0px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: white;
+}
+.btn{
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    background: none;
+    outline: none;
+    margin: 35px 25%;
+    padding: 10px ;
+    border-radius: 10px;
+    border: 2px;
+    font-size: 30px;
+    border: 2px solid purple;
+    text-shadow: 50%;
+}
